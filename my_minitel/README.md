@@ -1,8 +1,8 @@
 # minitel3.0
-school project
 
+./minitel.sh to launch script
 
-need :
+You need to install python and psutil module for launch the script.
 
--python
--psutil package : apt install python-psutil
+apt-get install python python-psutil.
+
